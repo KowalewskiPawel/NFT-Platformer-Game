@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "./static/js/main.09ccf6a9.js",
+    "polyfills-dom.js": "./static/js/polyfills-dom.8b23b4d2.chunk.js",
+    "polyfills-core-js.js": "./static/js/polyfills-core-js.aca46889.chunk.js",
+    "static/js/340.10369ed5.chunk.js": "./static/js/340.10369ed5.chunk.js",
+    "static/media/BG.png": "./static/media/BG.f430972dc588847c2fe5.png",
+    "index.html": "./index.html",
+    "main.09ccf6a9.js.map": "./static/js/main.09ccf6a9.js.map",
+    "polyfills-dom.8b23b4d2.chunk.js.map": "./static/js/polyfills-dom.8b23b4d2.chunk.js.map",
+    "polyfills-core-js.aca46889.chunk.js.map": "./static/js/polyfills-core-js.aca46889.chunk.js.map",
+    "340.10369ed5.chunk.js.map": "./static/js/340.10369ed5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.09ccf6a9.js"
+  ]
+}
