@@ -1,5 +1,5 @@
-import Phaser, { LEFT } from 'phaser'
-import { IonPhaser } from '@ion-phaser/react'
+import Phaser from 'phaser';
+import { IonPhaser } from '@ion-phaser/react';
 import { useMoralis } from "react-moralis";
 
 import BackgroundImage from './assets/BG.png';
@@ -8,9 +8,9 @@ import buddy from "./assets/buddy.png";
 
 
 const App = () => {
-  const { Moralis, authenticate, logout, isAuthenticated, user, object } = useMoralis();
+const { Moralis, authenticate, logout, isAuthenticated, user } = useMoralis();
 
-  let platforms;
+let platforms;
 let player;
 let cursors;
 let competitors = {};
