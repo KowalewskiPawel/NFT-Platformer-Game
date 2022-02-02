@@ -19,8 +19,10 @@ const game = {
   },
   scene: {
     preload: function() {
+      this.load.setCORS('anonymous');
+      this.textures.addBase64('tile', tile);
       this.load.image('background', BackgroundImage);
-      this.load.image('tile', tile);
+      
       
     },
     create: function() {
